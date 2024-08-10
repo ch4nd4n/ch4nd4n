@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### Nothing special that I am working on.
+#### Just another coder.
 <!--
 **ch4nd4n/ch4nd4n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
